@@ -17,6 +17,7 @@
 		9364EA982A2F449000FCEE22 /* PhotoSearch_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9364EA972A2F449000FCEE22 /* PhotoSearch_AppTests.swift */; };
 		9364EAA22A2F449000FCEE22 /* PhotoSearch_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9364EAA12A2F449000FCEE22 /* PhotoSearch_AppUITests.swift */; };
 		9364EAA42A2F449000FCEE22 /* PhotoSearch_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9364EAA32A2F449000FCEE22 /* PhotoSearch_AppUITestsLaunchTests.swift */; };
+		9E7FD2D12A308A1E00DF9D51 /* CollectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7FD2D02A308A1E00DF9D51 /* CollectionVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9364EA9D2A2F449000FCEE22 /* PhotoSearch_AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoSearch_AppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9364EAA12A2F449000FCEE22 /* PhotoSearch_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSearch_AppUITests.swift; sourceTree = "<group>"; };
 		9364EAA32A2F449000FCEE22 /* PhotoSearch_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSearch_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9E7FD2D02A308A1E00DF9D51 /* CollectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				9364EA7F2A2F448E00FCEE22 /* SceneDelegate.swift */,
 				9364EA812A2F448E00FCEE22 /* ViewController.swift */,
 				9364EA832A2F448E00FCEE22 /* Main.storyboard */,
+				9E7FD2D02A308A1E00DF9D51 /* CollectionVC.swift */,
 				9364EA892A2F448F00FCEE22 /* Assets.xcassets */,
 				9364EA8B2A2F448F00FCEE22 /* LaunchScreen.storyboard */,
 				9364EA8E2A2F448F00FCEE22 /* Info.plist */,
@@ -265,6 +268,7 @@
 				9364EA822A2F448E00FCEE22 /* ViewController.swift in Sources */,
 				9364EA7E2A2F448E00FCEE22 /* AppDelegate.swift in Sources */,
 				9364EA802A2F448E00FCEE22 /* SceneDelegate.swift in Sources */,
+				9E7FD2D12A308A1E00DF9D51 /* CollectionVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
