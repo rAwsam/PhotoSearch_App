@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         gradientLayer.colors = [UIColor.systemPink.cgColor,UIColor.systemGray2.cgColor,UIColor.systemMint.cgColor,UIColor.systemYellow.cgColor]
         view.layer.addSublayer(gradientLayer)
         ////ffghjklkjhgc
+        print(",,")
     }
 
 
